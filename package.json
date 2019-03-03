@@ -1,0 +1,27 @@
+{
+  "name": "creatio-test-repo1",
+  "version": "1.0.0",
+  "description": "test repo for Creatio",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11",
+    "materialize-css": "^1.0.0-rc.2",
+    "moment": "^2.24.0",
+    "vue": "^2.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coltonwood/creatio-test-repo1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coltonwood/creatio-test-repo1/issues"
+  },
+  "homepage": "https://github.com/coltonwood/creatio-test-repo1#readme"
+}
